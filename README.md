@@ -1,11 +1,8 @@
-                                          Base Converter, Tic-tac-toe and ZigZag
-Basic concepts of Octave, including a tic tac toe game, a base converter and a visual representation of a zig zag square.
-
-Autor: Soare Ion-Alexandru
-Universitatea Politehnica din Bucuresti
-Facultatea de Automatica si Calculatoare
-Specializarea CTI, Grupa 313 CD
-Data: 2 Aprilie 2017
+	Autor: Soare Ion-Alexandru
+	Universitatea Politehnica din Bucuresti
+	Facultatea de Automatica si Calculatoare
+	Specializarea CTI, Grupa 313 CD
+	Data: 2 Aprilie 2017
 
 
 TEMA 1- METODE NUMERICE
