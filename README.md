@@ -13,7 +13,7 @@ TEMA 1- METODE NUMERICE
 joc() 
 {
 
-	Functia joc constituie un simulator de X si 0 prin intermediul unei matrice de dimensiuni 3x3, umpluta la inceput, conventional cu "-".
+Functia joc constituie un simulator de X si 0 prin intermediul unei matrice de dimensiuni 3x3, umpluta la inceput, conventional cu "-".
 La inceput, jucatorul trebuie sa aleaga cu ce vrea sa joace, X sau 0 (X-ul incepe intotdeauna), ori sa apese tasta q (quit), pentru a iesi din joc.
 Comenzile nu sunt case sensitive, deci utilizatorul le poate introduce si cu caps lock-ul pornit. Variabila moveturn este setata implicit pe 0 pentru
 tura user-ului si pe 1 pentru tura calculatorului, schimbandu-se alternativ la fiecare valoare VALIDA a unuia dintre cei doi. Miscarile calculatorului
@@ -26,7 +26,7 @@ a respectivului.
 baza(sursa,b1,b2)
 {
 	
-	Functia baza primeste ca argument un string de caractere (sursa), ce reprezinta un numar in baza b1. Nu s-au pus conditii pentru apartenenta numarului
+Functia baza primeste ca argument un string de caractere (sursa), ce reprezinta un numar in baza b1. Nu s-au pus conditii pentru apartenenta numarului
 la baza specificata (in pdf-ul temei este specificat ca programul trebuie sa ruleze pentru orice valori VALIDE, oricat de mari). Numerele din string sunt case sensitive,
 deci numarul 'a31f3das2' va fi valid, in timp ce 'A31F3DAS2' nu va fi.
 	S-au initializat de la inceput: lungimea argumentului sursa; un vector pentru fiecare caracter din sursa, ce contine pozitiile in care elementul respectiv apare
