@@ -1,10 +1,3 @@
-	Autor: Soare Ion-Alexandru
-	Universitatea Politehnica din Bucuresti
-	Facultatea de Automatica si Calculatoare
-	Specializarea CTI, Grupa 313 CD
-	Data: 2 Aprilie 2017
-
-
 TEMA 1- METODE NUMERICE
 
 joc() 
